@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorrerify",
+        "uuid": 3750730,
+        "checksum": "lzcvp8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
